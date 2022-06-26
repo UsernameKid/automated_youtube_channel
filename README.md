@@ -11,7 +11,7 @@ Read about it here: https://medium.com/@nathan_149/making-a-fully-automated-yout
 
 3. Install libraries with `pip3 install -r requirements.txt` or `python3 -m pip install -r requirements.txt` .
 
-4. Get setup and create a Project with the Youtube API: https://developers.google.com/youtube/v3/quickstart/python
+4. Get setup and create a Project with the Youtube Data API: https://developers.google.com/youtube/v3/quickstart/python
 Be sure to follow it carefully, as it won't work if you don't do this part right.
 Download your OATH file and name it as "googleAPI.json" in your project folder.
 
